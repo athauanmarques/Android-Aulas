@@ -1,0 +1,2 @@
+rootProject.name = "Cryto Chat"
+include ':app'
